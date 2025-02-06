@@ -1,0 +1,49 @@
+In this clause, for sole traders, partnerships and other un-incorporated customers “you” or “Merchant” means the  individuals who own the business and for corporate customers “you” or “Merchant” means both the company and  (if applicable), the directors, officers, shareholders and other parties responsible for the operation of the business.  Unless otherwise stated below, in this clause 18 “we”, “us” and “our” refer to one or more of GPN, Global Payments  U.K. Ltd and Group Companies; “Group Companies” refers to companies within the Global Payments group,  including without limitation subsidiaries, associated and affiliated companies.
+
+18.1 Merchant Data Processing Notice – The Merchant Data Processing Notice (“Notice”) sets out how we collect and  use your Personal Data, and any individuals who provide us with Personal Data in order to procure Card Processing  Services (“Services”). 
+
+18.2 Data Sharing with Credit Reference Agencies (CRA), Fraud Prevention Agencies and Law Enforcement – GPN may  exchange information with CRAs, Fraud Prevention Agencies, Law Enforcement and Debt Recovery Agencies, the  Card Schemes and other organisations, in accordance with the Notice. 
+
+ GPN may share with CRAs the details of how you manage any card processing services. If GPN makes demands for  repayment following any default by you and you fail to repay the sum due in full or make (and adhere to) acceptable  proposals for repayment within twenty eight (28) days, then in the absence of any genuine dispute about the amount  owed, GPN may register the default with CRAs. This may affect your ability to obtain further credit.
+
+ If GPN terminates or suspends service under this Agreement under clause 14.6, GPN may pass details of the reason  it is terminating or suspending service under the Agreement together with details of your business including without  limitation the names and addresses of the principal proprietors or directors, to fraud prevention databases operated  by Card Schemes and other relevant organisations. The types of reason which may be notified to Card Schemes  include, but are not limited to, circumstances such as insolvency, breach of the Agreement or excessive levels of  fraudulent transactions or Disputes. If we have terminated your UnionPay acceptance under clause 14.6, we will  inform UnionPay in writing that we have terminated our agreement with you to process UnionPay transactions.  UnionPay will then add you to their “Negative File” a list of all merchants who are suspended from UnionPay card  payment acceptance. Any merchant who is placed on the Negative File will not be allowed to enter into a new  UnionPay agreement for two (2) years after termination. Should you enter into a new UnionPay agreement within  this time period a warning will be issued by UnionPay to your new card processor and UnionPay will be entitled to  terminate the processing of any transactions that you submit during this two (2) year suspension period. By signing  the Service Schedule or accepting your first UnionPay transaction you confirm that you have not had UnionPay card  acceptance terminated by any card processor within the last two (2) years.
+
+Contents Next
+
+Global Payments Card Processing Agreement 24
+
+18.3 Confidentiality - Since the documents constituting the Agreement contain certain information designed to help you  reduce the risk of fraud you must keep them secure and not disclose them to the general public.
+
+18.4 Data Processing – This provision sets out the obligations and rights of the parties with regard to processing of  Personal Data to provide Services under this Agreement, as required by the Data Protection Laws. In particular, it  sets out, in relation to the processing:
+
+• Subject matter, nature and purpose – the processing of data in the course of providing card processing services,  in order to permit the Merchant to take payment from customers for goods or services
+
+• Duration – the term of this Agreement
+
+• Type of personal data – transactional data required for the provision of the Services, including card number • Categories of data subjects – customers of the Merchant who engage in payment card transactions.
+
+ You authorise GPN to process the Personal Data during the term of this Agreement. You warrant that you have  all necessary rights to authorise GPN to process Personal Data in accordance with this Agreement and the Data  Protection Laws, and that your instructions to GPN relating to processing of Personal Data will not put GPN in breach  of Data Protection Laws, including with regard to transfer of Personal Data outside the UK or EEA.
+
+ If GPN considers that any of your instructions relating to processing of Personal Data may put GPN in breach of Data  Protection Laws, GPN will be entitled not to carry out that processing and will not be in breach of this Agreement or  otherwise liable to you as a result of its failure to carry out that processing.
+
+ GPN will process the Personal Data only on your documented instructions (including this Agreement), unless GPN or  the relevant Sub-Processor is required to process Personal Data to comply with applicable laws, in which case GPN  will notify you of such legal requirement prior to such processing unless such applicable laws prohibit notice on  public interest grounds. Nothing in this clause will permit you to vary GPN’s obligations under this Agreement.
+
+ GPN will ensure that any individual authorised to process Personal Data is subject to appropriate confidentiality  obligations and comply with this clause 18.4.
+
+ GPN will delete or return to you all Personal Data after the end of the provision of Services relating to processing,  and delete any remaining copies. GPN will be entitled to retain any Personal Data which it has to keep to comply  with any applicable law or which it is required to retain for insurance, accounting, taxation or record keeping  purposes. 
+
+ You authorise GPN to engage any person as a Sub-Processor for the processing of Personal Data. We will inform  you of any intended changes concerning the addition or replacement of Sub-Processors, thereby giving you the  opportunity to object to such changes. If you object to such a change and GPN is not reasonably able to make such  adjustments to remove the objection, you will be entitled to terminate this Agreement by giving not less than one (1)  months’ written notice to that effect to GPN.
+
+ If GPN appoints a Sub-Processor, GPN will put a written contract in place between GPN and the Sub-Processor that  specifies the Sub-Processor’s processing activities and imposes on the Sub-Processor substantially similar terms  to those imposed on GPN in this clause 18. GPN will remain liable to you for performance of the Sub-Processor’s  obligations. If GPN makes any transfers of Personal Data outside the UK or EEA in relation to its provision of the  Services, it will comply with the Data Protection Laws, and will execute such documents or take such actions as may  be required to assist with such compliance.
+
+ GPN will implement appropriate technical and organisational measures to protect against a Data Security Incident,  and notify you without undue delay after becoming aware of a Data Security Incident, and will provide reasonable  assistance to you (at your cost) in:
+
+• complying with your obligations under the Data Protection Laws relating to the security of processing Personal Data;
+
+• responding to requests within the timescales required by the Data Protection Laws for exercising data subjects’  rights under the Data Protection Laws, including by appropriate technical and organisational measures, insofar  as this is possible; 
+
+• documenting any Data Security Incidents and reporting any Data Security Incidents to any supervisory authority  and/or data subjects; and
+
+• conducting privacy impact assessments of any processing operations and consulting with supervisory  authorities, data subjects and their representatives accordingly.
+
+• GPN will make available to you all information necessary to demonstrate compliance with the obligations set out  in this clause 18.4.
