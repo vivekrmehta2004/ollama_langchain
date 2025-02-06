@@ -4,7 +4,7 @@ from keyword1 import extract_keywords
 from question import generate_questions
 
 # Output file
-OUTPUT_EXCEL = "res.xlsx"
+OUTPUT_EXCEL = "P_results.xlsx"
 
 def run_pipeline():
     documents = convert_all_files()
